@@ -1,6 +1,6 @@
 # Diamond Price Dataset:
 
-this is the dataset on kaggle:
+this is the dataset on Kaggle:
 [https://www.kaggle.com/competitions/shai-club/data?select=train.csv]
 
 - Features:
@@ -15,7 +15,7 @@ Clarity: Represents the clarity of the diamond, ranging from FL (flawless) to I3
 
 Depth: The height of the diamond, measured from the Culet to the table, divided by its average Girdle Diameter.
 
-Table: The width of the diamond's table expressed as a percentage of its average diameter.
+Table: The width of the diamond's table is expressed as a percentage of its average diameter.
 
 Price: The price of the diamond (target variable).
 
@@ -35,6 +35,14 @@ Quantitative Features (Numerical): Carat, Depth, Table, Price, X, Y, Z.
 
 
 ## In this notebook:
-I have conducted a comprehensive analysis of this dataset to uncover insights and patterns related to diamond characteristics and their influence on pricing. To enhance the accessibility and understanding of the data, I have developed a user-friendly dashboard. This dashboard includes visualizations and summaries that make it easier to grasp the relationships between the features and diamond prices.
+I have conducted a comprehensive analysis of this dataset to uncover insights and patterns related to diamond characteristics and their influence on pricing. To enhance the accessibility and understanding of the data.
 
-Feel free to explore the dataset and interact with the dashboard to gain a better understanding of how various attributes impact the pricing of diamonds. Whether you're a diamond enthusiast, a jeweler, or someone interested in predictive modeling, this dataset and the accompanying dashboard can be valuable tools for both analysis and decision-making.
+## Dashboard:
+I have also developed a user-friendly dashboard. This dashboard provides visualizations and summaries that facilitate a deeper understanding of the dataset, making it a powerful tool for strategic decision-making in credit card marketing.
+
+You can access the interactive dashboard here: [https://app.powerbi.com/view?r=eyJrIjoiZDA5MmZmYTYtODlhNS00NjIzLTg2ZDgtN2Y2M2I2OGE3YzUyIiwidCI6IjVmYjg0ZTZlLTNlOTctNDBlNC05NGVmLWE0YmVlYTg5NDkxMiIsImMiOjl9]
+
+and this is the dashboard image:
+
+ ![dashboard](diamond_price_dashboard.png)
+
