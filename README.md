@@ -1,5 +1,8 @@
 # Diamond Price Dataset:
 
+this is the dataset on kaggle:
+[https://www.kaggle.com/competitions/shai-club/data?select=train.csv]
+
 - Features:
 
 Carat: The carat weight of the diamond.
